@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id = "@+id/navHome"
+        android:icon= "@drawable/ic_home_black_24dp"
+        android:title="Home"
+        />
+
+    <item
+        android:id ="@+id/rewards"
+        android:icon="@drawable/ic_redeem_black_24dp"
+        android:title="Rewards"/>
+
+    <item
+        android:id = "@+id/vehicles"
+        android:icon= "@drawable/ic_capture"
+        android:title="Vehicle"
+        />
+
+    <item
+        android:id = "@+id/personalInformation"
+        android:icon= "@drawable/ic_perm_identity_black_24dp"
+        android:title="Information"/>
+
+
+
+</menu>
